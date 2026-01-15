@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
+playwright
+beautifulsoup4
+pdfplumber
+pytesseract
+pandas
+scikit-learn
+mlflow
+urllib3
